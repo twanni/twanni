@@ -2,7 +2,7 @@
 - 💗 ✦ My name is Tanni.
 - 🍥 ✧ I'm 15 years old.
 - 💌 ✦ I live in germany with my family and my two cats.
-- 💞️ ✧ usually code discord bots with javascript.
+- 💞️ ✧ I usually code discord bots, but also other things, with javascript.
 - 🎀 ✦ I've started coding last year in november
 - 🍧 ✧ You can reach me on discord: tni#0666
 
